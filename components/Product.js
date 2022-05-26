@@ -1,6 +1,5 @@
 import React from "react";
 import styles from "../styles/Product.module.css";
-import IPFSDownload from "../hooks/IpfsDownload";
 import Buy from "./Buy";
 
 export default function Product({ product }) {
@@ -20,7 +19,6 @@ export default function Product({ product }) {
 
             <div className={styles.product_action}>
                 <div className={styles.product_price}>{price} USDC</div>
-                {/* <IPFSDownload filename="emojis.zip" hash="QmWWH69mTL66r3H8P4wUn24t1L5pvdTJGUTKBqT11KCHS5" cta="Download emojis"/> */}
                 <Buy itemID={id} />
             </div>
           </div>

@@ -14,7 +14,7 @@ const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 const App = () => {
 
   const { publicKey } = useWallet();
-  const isOwner = ( publicKey ? publicKey.toString() === process.env.NEXT_PUBLIC_OWNER_PUBLIC_KEY : false );
+  const isOwner = ( PublicKey ? publicKey.toString() === process.env.NEXT_PUBLIC_OWNER_PUBLIC_KEY : false );
   const [creating, setCreating] = useState(false);
   const [products, setProducts] = useState([]);
 
