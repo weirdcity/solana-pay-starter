@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "YSL Drumkit",
+    "price": "25.00",
+    "description": "Our most creative Trap Drum Kits yet - inspired by one of the most creative hiphop trap collectives of this generation!",
+    "image_url": "https://i1.wp.com/media0.giphy.com/media/QW4rRsziF3o1aZzRAw/giphy.gif",
+    "filename": "YSL Drumkit.zip",
+    "hash": "QmQnV9bvW42zR5TPJGdSZquQ5xgky7C54y4AHGeZKfd8vz"
+  },
+  {
+    "id": 2,
+    "name": "CLB Drumkit",
+    "price": "996.00",
+    "description": "Sounds inspired by Cerified Lover Boy!",
+    "image_url": "https://media4.giphy.com/media/BEtuo5MtAolH4LzLfa/giphy.gif",
+    "filename": "CLB Drumkit.zip",
+    "hash": "Qmf28uw9i4hCyt2rfGS1TfQFwasLfYAJtDAhUVdQoWkX8r"
+  },
+  {
+    "id": 3,
+    "name": "Kendrick Lamar Drumkit",
+    "price": "93.14",
+    "description": "Sounds inspired by multi-platnium recording artist Kendrick Lamar!",
+    "image_url": "https://i.pinimg.com/originals/f0/96/c5/f096c5e47e4b71ab2163ce07da429c62.gif",
+    "filename": "KDOT Drumkit.zip",
+    "hash": "QmWHPftAV2pxREBJaLybBwfe7xuNR5dmcNYmFE2ji4MpSH"
+  },
+  {
+    "id": 4,
+    "name": "Glo-Fi (Electrax Bank)",
+    "price": "93",
+    "image_url": "https://cdn.shopify.com/s/files/1/0090/5284/8192/products/GLOFINEWCOVER_600x.png?v=1625640644",
+    "description": "Glo-Fi (Electrax Bank)",
+    "filename": "Juesswork - Pook Pack.zip",
+    "hash": "QmX5DnBsZQL2ufHeGbw6HMPm9r8Dg5jfsqa9LirHJs6MoJ"
+  }
+]
